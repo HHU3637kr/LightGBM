@@ -108,7 +108,7 @@
 
 **结果展示：**
 
-![image-20231025101435296](C:\Users\86131\AppData\Roaming\Typora\typora-user-images\image-20231025101435296.png)
+![image-20231025101435296](image-20231025101435296.png)
 
 **比赛成果：**
 
